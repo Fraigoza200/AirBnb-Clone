@@ -9,7 +9,7 @@ function Header() {
     return (
         <div className='header'>
             <img className='header__icon'
-            src='https://assets.entrepreneur.com/content/3x2/2000/1405612741-airbnb-why-new-logo.jpg?width=600&crop=16:9'
+            src='https://www.logo.wine/a/logo/Airbnb/Airbnb-Logo.wine.svg'
             alt='airbnb logo' />
 
             <div className='header__center'>
