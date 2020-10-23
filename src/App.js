@@ -10,15 +10,6 @@ function App() {
     <Header />
     <Home />
     <Footer />
-     {/* Header */}
-
-     {/* Banner */}
-
-     {/* Cards */}
-
-     {/* Footer */}
-
-     {/* SearchPage */}
     </div>
   );
 }
