@@ -5,6 +5,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Description 
 #### Using ReactJS and React Router Dom in order to re-create the AirBnb website. Utilized functional components, hooks, and several npm packages such as React-Date-Picker. This project also uses Materialize to display sleek and a responsive navigation bar, cards, and footer. 
 
+## Home Page(Landing Page)
+![AbnbHomePage](https://user-images.githubusercontent.com/52722189/97066215-7a71ea00-1568-11eb-859d-dbb740b372ed.png)
+
+## Search Page
+![AbnbSearchPage](https://user-images.githubusercontent.com/52722189/97066223-88276f80-1568-11eb-88b4-a44aea316ae1.png)
+
+
 
 
 ## Available Scripts
