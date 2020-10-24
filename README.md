@@ -1,6 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[Link to Deployed App](https://airbnb-clone-7de09.web.app/)
+## [Link to Deployed App](https://airbnb-clone-7de09.web.app/)
+
+## Description 
+#### Using ReactJS and React Router Dom in order to re-create the AirBnb website. Utilized functional components, hooks, and several npm packages such as React-Date-Picker. This project also uses Materialize to display sleek and a responsive navigation bar, cards, and footer. 
+
+
 
 ## Available Scripts
 
